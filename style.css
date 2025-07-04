@@ -1,0 +1,83 @@
+@font-face { font-family: 'ronda'; src: url('./font/pf_ronda_seven.ttf');}
+@font-face { font-family: pixel; src: url(./font/w95fa.woff);}
+
+body {background:#eee url(./images/99h763.webp);}
+  
+table {font-family:"ronda", calibri, verdana, arial;
+font-size: 8px;text-align:justify;
+color:#5DA45D;
+letter-spacing: 1px; 
+line-height:10px;}
+
+
+a:link, a:visited, a:active { 
+color:#4F4527;text-decoration:none;}
+a:hover {color:#005555;}
+
+b {font-weight:bold;color:#039089;}
+i {color:#444;font-style:normal;}
+  
+  
+::-webkit-scrollbar-thumb {
+background-color: #005555;  
+border-radius: 5px;}
+::-webkit-scrollbar {
+width: 5px; height: 0px; 
+background: transparent;}
+
+
+.title {background:#EDFDFD;text-transform:uppercase; font-family: 'pixel', arial; font-size:12px;
+color:#039089;line-height:12px;padding-top:1px;padding-left:4px;border-bottom:1px dashed #71C471;margin-bottom:4px;letter-spacing:3px;}
+  
+.bigtitle {background:#EDFDFD;text-transform:uppercase; font-family: 'pixel', arial; font-size:18px;
+color:#005555;line-height:18px;padding-top:1px;padding-left:4px;border-bottom:1px dashed #71C471;margin-bottom:4px;margin-top:4px;letter-spacing:3px;}
+  
+
+#menu a { 
+display:inline-block;
+background:#94E04D; 
+font:normal 9px 'silkscreen',monospace,georgia;
+text-transform:uppercase;
+padding:2px; 
+padding-left:5px;
+padding-right:5px;
+letter-spacing:1px;
+color:#333;
+border-radius:10px;
+border:1px solid #48AE47;
+line-height:9px;}
+
+#menu button { 
+display:inline-block;
+background:#94E04D; 
+font:normal 9px 'silkscreen',monospace,georgia;
+text-transform:uppercase;
+padding:2px; 
+padding-left:5px;
+padding-right:5px;
+letter-spacing:1px;
+color:#333;
+border-radius:10px;
+border:1px solid #48AE47;
+line-height:9px;}
+      
+#menu button:hover {
+background-color:#7FC73F;}
+
+.photosimage {
+background: #FFF;
+padding: 4px;
+margin: 2px;
+border: 1px solid #DEEEC9;
+}
+  
+
+.navigation {background:#005555;margin-top:0px;border-bottom:1px solid #aaa;border-top-left-radius:10px;border-top-right-radius:10px;}
+.sitename {background:#fff;padding-left:5px;border-bottom:1px solid #005555;border-right:1px solid #005555;border-left:1px solid #005555;line-height:18px;}
+.leftside {background: #FFF; border-right: 1px solid #ddd;border-left:1px solid #005555;}
+.content {background: #FFF; border-right: 1px solid #005555;}
+.footer {background: #005555;color:#555; border-top:1px solid #111;
+ border-bottom-left-radius:10px;border-bottom-right-radius:10px;line-height:18px;}
+.footer a {color:#fff;}
+  
+ 
