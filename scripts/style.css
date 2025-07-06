@@ -2,7 +2,7 @@
 @font-face { font-family: pixel; src: url(./font/w95fa.woff);}
   
 table {font-family:"ronda", calibri, verdana, arial;
-font-size: 8px;text-align:justify;
+font-size: 11px;text-align:justify;
 color:#5DA45D;
 letter-spacing: 1px; 
 line-height:10px;}
